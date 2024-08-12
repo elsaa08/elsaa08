@@ -3,8 +3,8 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Felsaa08&label=Visitors&countColor=%237e8ef1)
 
 
-- 🌱 I’m currently learning Mobile developing
-- 👯 I’m looking to collaborate on sofware engineer groups
+- 🌱 I’m currently learning *everything*
+- 👯 I’m looking to collaborate on sofware engineer teams
 - 📫 reach me on my instagram [sachan08_](https://www.instagram.com/sachan08_/)**
 - ⚡ Fun fact: im a cat
 

@@ -17,6 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/MySQL-l?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1&color=%234479A1)
 ![Static Badge](https://img.shields.io/badge/HTML-l?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/Python-l?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=%233776AB)
+![Static Badge](https://img.shields.io/badge/Javascript-l?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%233776AB&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-l?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=%23F37626&color=%23F37626)
 ![Static Badge](https://img.shields.io/badge/PHP-l?style=for-the-badge&logo=php&logoColor=white&labelColor=%23777BB4&color=%23777BB4)
 ![Static Badge](https://img.shields.io/badge/Java-l?style=for-the-badge&logo=java&logoColor=white&labelColor=%23007396&color=%23007396)

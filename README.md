@@ -28,7 +28,7 @@
 ![Static Badge](https://img.shields.io/badge/GitHub-l?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&color=%23181717)
 ![Static Badge](https://img.shields.io/badge/Git-l?style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05032&color=%23F05032)
 ![Static Badge](https://img.shields.io/badge/Canva-l?style=for-the-badge&logo=canva&logoColor=white&labelColor=%2300C4CC&color=%2300C4CC)
-
+![Static Badge](https://img.shields.io/badge/React-l?style=for-the-badge&logo=react&logoColor=white&labelColor=%2300C4CC&color=%2300C4CC)
 
 ## :trophy: Achievements
 ![](https://github-profile-trophy.vercel.app/?username=elsaa08&theme=algolia&no-frame=true&no-bg=true&margin-w=5)

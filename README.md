@@ -26,7 +26,6 @@
 ![Static Badge](https://img.shields.io/badge/Katalon%20Studio-l?style=for-the-badge&logo=katalon&logoColor=white&labelColor=%2371A63D&color=%2371A63D)
 ![Static Badge](https://img.shields.io/badge/Apache%20JMeter-l?style=for-the-badge&logo=apachejmeter&logoColor=white&labelColor=%23D22128&color=%23D22128)
 ![Static Badge](https://img.shields.io/badge/BlazeMeter-l?style=for-the-badge&logo=blazemeter&logoColor=white&labelColor=%23DE2F2F&color=%23DE2F2F)
-![Static Badge](https://img.shields.io/badge/Figma-l?style=for-the-badge&logo=figma&logoColor=white&labelColor=%23F24E1E&color=%23F24E1E)
 ![Static Badge](https://img.shields.io/badge/GitHub-l?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&color=%23181717)
 ![Static Badge](https://img.shields.io/badge/Git-l?style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05032&color=%23F05032)
 ![Static Badge](https://img.shields.io/badge/Canva-l?style=for-the-badge&logo=canva&logoColor=white&labelColor=%2300C4CC&color=%2300C4CC)

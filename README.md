@@ -19,6 +19,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-l?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/Javascript-l?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%233776AB&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-l?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=%23F37626&color=%23F37626)
+![Static Badge](https://img.shields.io/badge/C-l?style=for-the-badge&logo=c&logoColor=white&labelColor=%233776AB&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/PHP-l?style=for-the-badge&logo=php&logoColor=white&labelColor=%23777BB4&color=%23777BB4)
 ![Static Badge](https://img.shields.io/badge/Java-l?style=for-the-badge&logo=java&logoColor=white&labelColor=%23007396&color=%23007396)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-l?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=%23007ACC&color=%23007ACC)

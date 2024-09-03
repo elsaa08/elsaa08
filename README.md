@@ -14,6 +14,8 @@
 ![Static Badge](https://img.shields.io/badge/Kotlin-l?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=%29D4E8&color=%29D4E8)
 ![Static Badge](https://img.shields.io/badge/Dart-l?style=for-the-badge&logo=dart&logoColor=white&labelColor=%230175C2&color=%230175C2)
 ![Static Badge](https://img.shields.io/badge/Flutter-l?style=for-the-badge&logo=flutter&logoColor=white&labelColor=%2302569B&color=%2302569B)
+![Static Badge](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Static Badge](https://img.shields.io/badge/Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MySQL-l?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1&color=%234479A1)
 ![Static Badge](https://img.shields.io/badge/HTML-l?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/Python-l?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=%233776AB)
@@ -29,7 +31,6 @@
 ![Static Badge](https://img.shields.io/badge/GitHub-l?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&color=%23181717)
 ![Static Badge](https://img.shields.io/badge/Git-l?style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05032&color=%23F05032)
 ![Static Badge](https://img.shields.io/badge/Canva-l?style=for-the-badge&logo=canva&logoColor=white&labelColor=%2300C4CC&color=%2300C4CC)
-![Static Badge](https://img.shields.io/badge/React-l?style=for-the-badge&logo=react&logoColor=white&labelColor=%2300C4CC&color=%2300C4CC)
 
 ## :trophy: Achievements
 ![](https://github-profile-trophy.vercel.app/?username=elsaa08&theme=algolia&no-frame=true&no-bg=true&margin-w=5)

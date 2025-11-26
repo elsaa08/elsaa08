@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *everything*
 - 👯 I’m looking to collaborate on sofware engineer teams
-- 📫 reach me on my instagram [sachan08_](https://www.instagram.com/sachan08_/)**
+- 📫 reach me on my instagram [sachan08_](https://www.instagram.com/sachan08_/)
 - ⚡ Fun fact: im a cat
 
 ## ⚙️ Languages & Tools
